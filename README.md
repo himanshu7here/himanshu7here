@@ -7,3 +7,8 @@
 📊 Learning Python, SQL, Machine Learning  
 📍 Bangalore, India
 
+## 🚀 Skills
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,sql,git,github,vscode,linux" />
+</p>
