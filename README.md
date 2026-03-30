@@ -1,11 +1,39 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hi+I'm+Himanshu+Jharaniya;Data+Science+Enthusiast;)0
 ## Hi there 👋
 
-# Hi 👋 I'm Himanshu Jharaniya
+# Hi 👋, I'm Himanshu Jharaniya
 
-💻 Aspiring Data Scientist  
-📊 Learning Python, SQL, Machine Learning  
-📍 Bangalore, India
+🎯 Aspiring Data Scientist | Credit Risk Analyst  
+📊 Skilled in SQL, Python, Tableau, Machine Learning  
+📍 Based in India  
+
+---
+
+## 🚀 About Me
+- 🎓 MTech in Big Data & Cloud Computing  
+- 📚 Currently learning Data Science & ML (Scaler)  
+- 💼 Interested in Credit Risk, Banking Analytics  
+- 📈 Love working with data, insights & business problems  
+
+---
+
+## 🛠️ Skills
+- Python | SQL | Pandas | NumPy  
+- Data Visualization (Tableau)  
+- Machine Learning  
+- Statistics & Hypothesis Testing  
+
+---
+
+## 📂 Projects
+- 🔹 Walmart Customer Analysis (EDA + Stats)  
+- 🔹 Target Brazil SQL Case Study  
+- 🔹 Credit Risk Analysis (Coming Soon)  
+
+---
+
+## 📫 Connect with me
+- LinkedIn: www.linkedin.com/in/himanshujharaniya
 
 ## 🚀 Skills
 
