@@ -11,7 +11,6 @@
 
 ## 🚀 About Me
 - 🎓 MTech in Big Data & Cloud Computing  
-- 📚 Currently learning Data Science & ML (Scaler)  
 - 💼 Interested in Credit Risk, Banking Analytics  
 - 📈 Love working with data, insights & business problems  
 
